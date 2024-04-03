@@ -32,7 +32,7 @@ data in PNG image format
 ## Installation
 1. Clone the Git Repository: `git clone https://github.com/MelpakkamPradeep/Assignment_2_NCEI.git`
 2. Navigate to the downloaded repository.
-3. Install the dependencies: `pip install requirements.txt `
+3. Install the dependencies: `conda create --name <env> --file requirements.txt `
 
 ## Usage and Notes
 `pipeline_1.py` (triggers every 4 minutes) can be triggered using <br/>
